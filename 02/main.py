@@ -1,3 +1,5 @@
+# Escribe un programa capaz de mostrar todos los números impares desde un número de inicio y otro final.
+
 numero_inicial = 2
 numero_final = 8
 
